@@ -11,3 +11,8 @@ This project provides a common component for a responsive navigation bar (navbar
 - **Accessibility**: Components include ARIA attributes for better accessibility.
 
 
+## Preview
+
+
+![Preview Image](https://raw.githubusercontent.com/AroshaRavishan/Navbar-and-Footer-Component-Responsive-design/main/sample%20image.png)
+
